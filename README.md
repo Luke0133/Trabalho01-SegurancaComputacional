@@ -9,6 +9,10 @@ Trabalho 1 da disciplina Segurança Computacional da Universidade de Brasília, 
 ```sh
 pip install bitarray
 ```
+2. Certifique-se que está usando a versão 3.13.0 do Python ou superior, o projeto tende a dar problemas em versões anteriores. Para checar sua versão digite no terminal:
+```sh
+python --version
+```
 
 <h2>Autores</h2>
 <table>
